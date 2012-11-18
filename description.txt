@@ -1,0 +1,14 @@
+Chain Reaction
+TRIAL YES
+Games > Board en Classic
+
+Strategic turn-based board game in which you must capture all your opponent's blocks.
+Blocks will explode when they are full and take over adjacent blocks.
+This can cause a chain reaction.
+
+Play the free demo version and have fun!
+
+Multiplayer, for two players.
+
+Trial version lets you play the small field.
+Full version can also play the medium and large field.

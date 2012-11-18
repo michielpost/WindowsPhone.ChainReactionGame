@@ -1,0 +1,27 @@
+
+TODO:
+Info/Help Page
+
+
+Start Page
+Small (3,3)
+Medium (4,6)
+Large (6,10)
+Custom (max 15,15)
+Help
+
+Menu Bar:
+Reset, Info, Stop
+
+Na klik op een finished bord, overnieuw beginnen (Reset())
+
+
+Bij TAP:
+Huidig cijfer verkleinen
+Nieuw cijfer vergroten
+Klein > niks > groot
+
+Bij Explode
+Achtergrondkleur fade in naar kleur van cijfer
+Cijfer weghalen
+Dan naar zwart
